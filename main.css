@@ -1,0 +1,22 @@
+
+.hours::after, .minutes::after{
+  content: ":"
+}
+.stopwatch{
+  margin-top: 280px;
+  display: block;
+}
+.stopwatch h1{
+  font-size: 90px;
+text-align: center;
+color:white;
+}
+#bar{
+  height:3px;
+  background-color:white;
+  width: 0px;
+  margin: -40px auto;
+}
+body{
+  background-color: #8A8244;
+}
